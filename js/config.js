@@ -7,11 +7,11 @@ window.HOOKSY_CONFIG = {
 
   // Your live site address, used in the Share text and sign-in links. Include the trailing slash.
   // Example: 'https://yourname.github.io/hooksy/'
-  SITE_URL: '',
+  SITE_URL: 'https://hooksy.io/',
 
   // Day #1 of the daily game. The word list is played in order from this date.
   // Keep it fixed after launch, or everyone's words will shift.
-  DAILY_START_DATE: '2026-11-14',
+  DAILY_START_DATE: '2026-11-17',
 
   ROUND_SECONDS: 60,
 
